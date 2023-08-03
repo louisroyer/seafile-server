@@ -12,7 +12,7 @@
 #include <event.h>
 #endif
 
-#include <evhtp.h>
+#include <evhtp/evhtp.h>
 
 #include "mq-mgr.h"
 #include "utils.h"

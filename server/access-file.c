@@ -11,7 +11,7 @@
 #include <event.h>
 #endif
 
-#include <evhtp.h>
+#include <evhtp/evhtp.h>
 
 #include <sys/stat.h>
 #include <sys/types.h>
